@@ -117,3 +117,8 @@ agents/devin-knowledge.json
 
 # pagefind
 _pagefind/
+
+# Speck local setup docs (machine-specific handoff notes — keep out of deploy repo)
+/SPECK_*.md
+/GO_LIVE.md
+/SECURITY-AUDIT-TRACKER.md
